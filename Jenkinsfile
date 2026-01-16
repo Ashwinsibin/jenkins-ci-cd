@@ -1,4 +1,4 @@
-0~pipeline {
+pipeline {
   agent any
   tools {
     nodejs 'node18'
@@ -26,4 +26,4 @@
     }
   }
 }
-1~
+
